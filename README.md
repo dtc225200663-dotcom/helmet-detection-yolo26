@@ -1,4 +1,4 @@
-# 🪖 Helmet Detection — YOLOv11
+# Helmet Detection — YOLOv11
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![YOLOv11](https://img.shields.io/badge/YOLO-v11n-green)
