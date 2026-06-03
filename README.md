@@ -3,11 +3,10 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![YOLOv11](https://img.shields.io/badge/YOLO-26n-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B?logo=streamlit&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Trained%20on-Kaggle%20T4%20x2-20BEFF?logo=kaggle&logoColor=white)
 ![Classes](https://img.shields.io/badge/Classes-4-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-Phát hiện **người không đội mũ bảo hiểm** khi đi xe máy sử dụng **YOLO26n**, huấn luyện trên Kaggle GPU T4 x2. Web app demo xây dựng bằng **Streamlit**, hỗ trợ nhận diện ảnh và video với cảnh báo trực tiếp.
+Phát hiện **người không đội mũ bảo hiểm** khi đi xe máy sử dụng **YOLO26n**, huấn luyện trên local. Web app demo xây dựng bằng **Streamlit**, hỗ trợ nhận diện ảnh và video với cảnh báo trực tiếp.
 
 ---
 
