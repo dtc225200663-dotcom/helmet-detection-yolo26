@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['helmet', 'licenseplate', 'motorcyclist', 'nohelmet']
+
+roboflow:
+  workspace: fpt-university-9oa0t
+  project: helmet-detection-and-license-plate-recognition-zfenu
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fpt-university-9oa0t/helmet-detection-and-license-plate-recognition-zfenu/dataset/2
